@@ -65,4 +65,9 @@
         </plugins>
     </build>
 
+         <properties>
+  <sonar.organization>oskarmorel</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 </project>
